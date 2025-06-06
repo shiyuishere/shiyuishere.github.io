@@ -1,0 +1,14 @@
+<!-- 1. EN author: Homemade Apple (for English), Noto Sans SC (for Chinese) -->
+<!-- 1. EN anthor: Homemade Apple-->
+<h1 class="homemade-apple-regular">{{ .Site.Params.author }}</h1> 
+
+<!-- 2. EN info: Caveat -->
+{{ if reflect.IsSlice .Site.Params.info }}
+<h2 class="caveat-custom">
+  {{ range .Site.Params.info }}
+    {{ . | markdownify }}<br>
+  {{ end }}
+</h2>
+{{ else }}
+<h2 class="caveat-custom">{{ .Site.Params.info | markdownify }}</h2>
+{{ end }}
