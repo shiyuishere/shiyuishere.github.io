@@ -93,7 +93,7 @@ url = "about/"
 [[languages.en.menu.main]]
 name = "CV"
 weight = 2
-url = "/CV.pdf"
+url = "/cv.pdf"
 
 # [[languages.en.menu.main]]
 # name = "Projects"
