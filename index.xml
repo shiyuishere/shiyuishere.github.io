@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>shiyudong📖🌍</title><link>https://shiyuishere.github.io/</link><description>Recent content on shiyudong📖🌍</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 06 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://shiyuishere.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://shiyuishere.github.io/about/</link><pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate><guid>https://shiyuishere.github.io/about/</guid><description>&lt;div style="max-width: 600px; margin: 0 auto; text-align: center;"> 
+&lt;img src="https://shiyuishere.github.io/images/shiyu.jpg" alt="Shiyu Dong" style="max-width: 100%; max-height: 400px; border-radius: 8px; display: block; margin: 0 auto 20px auto;" /> 
+&lt;div style="font-size: 1.2rem; line-height: 1.8;">
+ &lt;p>Hello! This is Shiyu Dong, currently a Master's student in &lt;a href="https://www.uu.nl/en/masters/sociology-and-social-research" target="_blank" rel="noopener noreferrer">Sociology and Social Research at Utrecht University&lt;/a>. My research focuses on AI experiments in sociology and Agent-based Modeling, exploring how technology shapes social dynamics. My thesis supervisor is &lt;a href="https://www.uu.nl/staff/JOu" target="_blank" rel="noopener noreferrer">Dr. Jiamin Ou&lt;/a>. I am currently a research intern at the &lt;a href="https://odissei-soda.nl/" target="_blank" rel="noopener noreferrer">ODISSEI SoDa Team&lt;/a>, working on projects related to LLMs and supervised by &lt;a href="https://www.uu.nl/staff/QFang" target="_blank" rel="noopener noreferrer">Dr. Qixiang Fang&lt;/a>. Before my studies, I spent five years working in data analysis for the banking sector, building expertise in finance and lending in China. In my most recent role as a product manager, I designed an AI-generated content chatbot for market sales data, leveraging data-driven decision-making to optimize business strategies. My technical skills include R, Stata, Python, SQL, Figma, Excel, PowerPoint, Xmind, and Visio, which I have applied in both academic and professional settings. I also have experience working with large language models. I am very fond of pets and have two cats and a dog who currently live with my family in China. In my free time, I enjoy watching movies, running, and hiking. Completing the &lt;a href="https://en.wikipedia.org/wiki/Pacific_Crest_Trail" target="_blank" rel="noopener noreferrer">Pacific Crest Trail&lt;/a> is my life goal. Please feel free to contact me at: &lt;a href="mailto:s.dong@students.uu.nl">s.dong@students.uu.nl&lt;/a> 📩&lt;/p></description></item><item><title>Guia de Sintaxe Markdown</title><link>https://shiyuishere.github.io/posts/markdown-syntax.pt-br/</link><pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate><guid>https://shiyuishere.github.io/posts/markdown-syntax.pt-br/</guid><description>&lt;p>Esse artigo é um exemplo básico para mostrar a sintaxe Markdown que é usada nos arquivos de conteúdo do Hugo. Ele também mostrar como cada elemento básico HTML é estilizado com CSS com os temas do Hugo.&lt;/p></description></item><item><title>Markdown Syntax Guide</title><link>https://shiyuishere.github.io/posts/markdown-syntax/</link><pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate><guid>https://shiyuishere.github.io/posts/markdown-syntax/</guid><description>&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p></description></item><item><title>Conteúdo Rico</title><link>https://shiyuishere.github.io/posts/rich-content.pt-br/</link><pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate><guid>https://shiyuishere.github.io/posts/rich-content.pt-br/</guid><description>&lt;p>O Hugo vem com vários &lt;a href="https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes" class="external-link" target="_blank" rel="noopener">Shortcodes Internos&lt;/a> para conteúdo rico, assim como uma &lt;a href="https://gohugo.io/about/hugo-and-gdpr/" class="external-link" target="_blank" rel="noopener">Configuração de Privacidade&lt;/a> e uma gama de Shortcodes simples que permitem embutir versões estáticas e sem JS de várias de redes sociais.&lt;/p>
+&lt;h2 id="">
+ 
+ &lt;a class="heading-link" href="#">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2></description></item><item><title>Rich Content</title><link>https://shiyuishere.github.io/posts/rich-content/</link><pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate><guid>https://shiyuishere.github.io/posts/rich-content/</guid><description>&lt;p>Hugo ships with several &lt;a href="https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes" class="external-link" target="_blank" rel="noopener">Built-in Shortcodes&lt;/a> for rich content, along with a &lt;a href="https://gohugo.io/about/hugo-and-gdpr/" class="external-link" target="_blank" rel="noopener">Privacy Config&lt;/a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p>
+&lt;h2 id="">
+ 
+ &lt;a class="heading-link" href="#">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2></description></item><item><title>Mais Conteúdo Rico</title><link>https://shiyuishere.github.io/posts/more-rich-content.pt-br/</link><pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate><guid>https://shiyuishere.github.io/posts/more-rich-content.pt-br/</guid><description>&lt;p>O Hugo Coder proporciona alguns Shortcodes Customizados.&lt;/p>
+&lt;h2 id="">
+ 
+ &lt;a class="heading-link" href="#">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2></description></item><item><title>More Rich Content</title><link>https://shiyuishere.github.io/posts/more-rich-content/</link><pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate><guid>https://shiyuishere.github.io/posts/more-rich-content/</guid><description>&lt;p>Hugo Coder provides some Custom Shortcodes.&lt;/p>
+&lt;h2 id="">
+ 
+ &lt;a class="heading-link" href="#">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2></description></item><item><title>Configuração de Equações Matemáticas</title><link>https://shiyuishere.github.io/posts/math-typesetting.pt-br/</link><pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate><guid>https://shiyuishere.github.io/posts/math-typesetting.pt-br/</guid><description>&lt;p>Em um projeto Hugo as Notações Matemáticas podem ser usadas com a ajuda de bibliotecas JavaScript de terceiros.&lt;/p></description></item><item><title>Math Typesetting</title><link>https://shiyuishere.github.io/posts/math-typesetting/</link><pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate><guid>https://shiyuishere.github.io/posts/math-typesetting/</guid><description>&lt;p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p></description></item><item><title>HTML and CSS only tabs</title><link>https://shiyuishere.github.io/posts/html-and-css-only-tabs/</link><pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate><guid>https://shiyuishere.github.io/posts/html-and-css-only-tabs/</guid><description>&lt;h2 id="shortcodes">
+ Shortcodes
+ &lt;a class="heading-link" href="#shortcodes">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>The following content:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">tabgroup&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">tab&lt;/span> &lt;span class="na">name&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;Hello&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Hello World!
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="p">/&lt;/span>&lt;span class="nt">tab&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">tab&lt;/span> &lt;span class="na">name&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;Goodbye&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Goodbye Everybody!
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="p">/&lt;/span>&lt;span class="nt">tab&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="p">/&lt;/span>&lt;span class="nt">tabgroup&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Will generate:&lt;/p>
+
+
+
+
+
+&lt;div class="tabs tabs-left">
+ 
+
+
+
+
+&lt;style>
+ .tabs input#tab-0-0:checked ~ .tab-content-0-0 {
+ display: block;
+ }
+&lt;/style>
+
+&lt;input type="radio" class="tab-input" name="tab-select-0" id="tab-0-0" checked/>
+&lt;label for="tab-0-0" class="tab-label">Hello&lt;/label>
+&lt;div class="tab-content tab-content-0-0">
+ Hello World!
+&lt;/div>
+
+
+
+
+
+
+
+
+&lt;style>
+ .tabs input#tab-0-1:checked ~ .tab-content-0-1 {
+ display: block;
+ }
+&lt;/style>
+
+&lt;input type="radio" class="tab-input" name="tab-select-0" id="tab-0-1" />
+&lt;label for="tab-0-1" class="tab-label">Goodbye&lt;/label>
+&lt;div class="tab-content tab-content-0-1">
+ Goodbye Everybody!
+&lt;/div>
+
+
+
+
+&lt;/div>
+
+
+
+&lt;h2 id="right-alignment">
+ Right alignment
+ &lt;a class="heading-link" href="#right-alignment">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>You can also align the tabs to the right:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">tabgroup&lt;/span> &lt;span class="na">align&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;right&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">tab&lt;/span> &lt;span class="na">name&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;Hello&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Hello World!
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="p">/&lt;/span>&lt;span class="nt">tab&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">tab&lt;/span> &lt;span class="na">name&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;Goodbye&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Goodbye Everybody!
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="p">/&lt;/span>&lt;span class="nt">tab&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="p">/&lt;/span>&lt;span class="nt">tabgroup&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Giving you this look:&lt;/p></description></item><item><title>HTML and CSS only tabs</title><link>https://shiyuishere.github.io/posts/html-and-css-only-tabs.pt-br/</link><pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate><guid>https://shiyuishere.github.io/posts/html-and-css-only-tabs.pt-br/</guid><description>&lt;h2 id="shortcodes">
+ Shortcodes
+ &lt;a class="heading-link" href="#shortcodes">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>O seguinte conteúdo:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">tabgroup&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">tab&lt;/span> &lt;span class="na">name&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;Hello&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Hello World!
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="p">/&lt;/span>&lt;span class="nt">tab&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">tab&lt;/span> &lt;span class="na">name&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;Goodbye&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Goodbye Everybody!
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="p">/&lt;/span>&lt;span class="nt">tab&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="p">/&lt;/span>&lt;span class="nt">tabgroup&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Irá gerar:&lt;/p>
+
+
+
+
+
+&lt;div class="tabs tabs-left">
+ 
+
+
+
+
+&lt;style>
+ .tabs input#tab-0-0:checked ~ .tab-content-0-0 {
+ display: block;
+ }
+&lt;/style>
+
+&lt;input type="radio" class="tab-input" name="tab-select-0" id="tab-0-0" checked/>
+&lt;label for="tab-0-0" class="tab-label">Hello&lt;/label>
+&lt;div class="tab-content tab-content-0-0">
+ Hello World!
+&lt;/div>
+
+
+
+
+
+
+
+
+&lt;style>
+ .tabs input#tab-0-1:checked ~ .tab-content-0-1 {
+ display: block;
+ }
+&lt;/style>
+
+&lt;input type="radio" class="tab-input" name="tab-select-0" id="tab-0-1" />
+&lt;label for="tab-0-1" class="tab-label">Goodbye&lt;/label>
+&lt;div class="tab-content tab-content-0-1">
+ Goodbye Everybody!
+&lt;/div>
+
+
+
+
+&lt;/div>
+
+
+
+&lt;h2 id="alinhamento-à-direita">
+ Alinhamento à direita
+ &lt;a class="heading-link" href="#alinhamento-%c3%a0-direita">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>Você também pode alinhas as tabs à direita:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">tabgroup&lt;/span> &lt;span class="na">align&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;right&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">tab&lt;/span> &lt;span class="na">name&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;Hello&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Hello World!
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="p">/&lt;/span>&lt;span class="nt">tab&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">tab&lt;/span> &lt;span class="na">name&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;Goodbye&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Goodbye Everybody!
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="p">/&lt;/span>&lt;span class="nt">tab&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="p">/&lt;/span>&lt;span class="nt">tabgroup&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Obtendo o seguinte resultado:&lt;/p></description></item><item><title>Mermaid JS support</title><link>https://shiyuishere.github.io/posts/mermaid-support/</link><pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate><guid>https://shiyuishere.github.io/posts/mermaid-support/</guid><description>&lt;p>If you want to use &lt;a href="https://mermaid-js.github.io/mermaid/#/" class="external-link" target="_blank" rel="noopener">Mermaid-JS&lt;/a> on your website.
+Provide &lt;code>mermaid&lt;/code> as &lt;a href="https://gohugo.io/content-management/shortcodes/#readout" class="external-link" target="_blank" rel="noopener">Shortcode&lt;/a> in your markdown file.&lt;/p>
+&lt;div class="mermaid">
+flowchart LR
+
+ A --> B
+
+ B --> C
+
+ C --> D
+
+ D --> B
+
+
+&lt;/div>
+
+&lt;div class="mermaid">
+sequenceDiagram
+participant Alice
+participant Bob
+Alice->>Bob: Hi Bob
+Bob->>Alice: Hi Alice
+
+&lt;/div>
+
+&lt;p>Find more example on &lt;a href="https://mermaid-js.github.io/mermaid/#/" class="external-link" target="_blank" rel="noopener">Mermaid-JS&lt;/a> website.&lt;/p></description></item><item><title>Mermaid JS support</title><link>https://shiyuishere.github.io/posts/mermaid-support.pt-br/</link><pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate><guid>https://shiyuishere.github.io/posts/mermaid-support.pt-br/</guid><description>&lt;p>Se quiser usar o &lt;a href="https://mermaid-js.github.io/mermaid/#/" class="external-link" target="_blank" rel="noopener">Mermaid-JS&lt;/a> em sua página.
+Use o &lt;a href="https://gohugo.io/content-management/shortcodes/#readout" class="external-link" target="_blank" rel="noopener">shortcode&lt;/a> &lt;code>mermaid&lt;/code> em seus conteúdos Markdown.&lt;/p>
+&lt;div class="mermaid">
+flowchart LR
+
+ A --> B
+
+ B --> C
+
+ C --> D
+
+ D --> B
+
+
+&lt;/div>
+
+&lt;div class="mermaid">
+sequenceDiagram
+participant Alice
+participant Bob
+Alice->>Bob: Hi Bob
+Bob->>Alice: Hi Alice
+
+&lt;/div>
+
+&lt;p>Entro mais exemplos na página do &lt;a href="https://mermaid-js.github.io/mermaid/#/" class="external-link" target="_blank" rel="noopener">Mermaid-JS&lt;/a>.&lt;/p></description></item><item><title>Emoji Support</title><link>https://shiyuishere.github.io/posts/emoji-support/</link><pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate><guid>https://shiyuishere.github.io/posts/emoji-support/</guid><description>&lt;p>Emoji can be enabled in a Hugo project in a number of ways.&lt;/p></description></item><item><title>Suporte a Emojis</title><link>https://shiyuishere.github.io/posts/emoji-support.pt-br/</link><pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate><guid>https://shiyuishere.github.io/posts/emoji-support.pt-br/</guid><description>&lt;p>Emojis podem ser ativados em um projeto Hugo de diversar formas.&lt;/p></description></item><item><title>External Page: Hugo Coder Wiki</title><link>https://shiyuishere.github.io/posts/hugo-coder-wiki/</link><pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate><guid>https://shiyuishere.github.io/posts/hugo-coder-wiki/</guid><description/></item><item><title>Página Externa: Wiki Hugo Coder</title><link>https://shiyuishere.github.io/posts/hugo-coder-wiki/</link><pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate><guid>https://shiyuishere.github.io/posts/hugo-coder-wiki/</guid><description/></item><item><title>Placeholder Text</title><link>https://shiyuishere.github.io/posts/placeholder-text/</link><pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate><guid>https://shiyuishere.github.io/posts/placeholder-text/</guid><description>&lt;p>Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p></description></item><item><title>Texto de Exemplo</title><link>https://shiyuishere.github.io/posts/placeholder-text.pt-br/</link><pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate><guid>https://shiyuishere.github.io/posts/placeholder-text.pt-br/</guid><description>&lt;p>Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p></description></item><item><title>Autores de Hugo</title><link>https://shiyuishere.github.io/autores/autores-de-hugo/</link><pubDate>Thu, 05 Jan 2023 01:15:52 +0100</pubDate><guid>https://shiyuishere.github.io/autores/autores-de-hugo/</guid><description/></item><item><title>temas</title><link>https://shiyuishere.github.io/categoria/temas/</link><pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate><guid>https://shiyuishere.github.io/categoria/temas/</guid><description/></item><item><title>temas</title><link>https://shiyuishere.github.io/categoria/temas/</link><pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate><guid>https://shiyuishere.github.io/categoria/temas/</guid><description/></item><item><title>sintaxe</title><link>https://shiyuishere.github.io/categoria/sintaxe/</link><pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate><guid>https://shiyuishere.github.io/categoria/sintaxe/</guid><description/></item><item><title>sintaxe</title><link>https://shiyuishere.github.io/categoria/sintaxe/</link><pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate><guid>https://shiyuishere.github.io/categoria/sintaxe/</guid><description/></item><item><title>Códigos curtos</title><link>https://shiyuishere.github.io/tags/shortcodes/_index.pt-br/</link><pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate><guid>https://shiyuishere.github.io/tags/shortcodes/_index.pt-br/</guid><description/></item><item><title>Contact</title><link>https://shiyuishere.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://shiyuishere.github.io/contact/</guid><description>&lt;p>Follow me, @johndoe.&lt;/p></description></item><item><title>Contato</title><link>https://shiyuishere.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://shiyuishere.github.io/contact/</guid><description>&lt;p>Me siga em @joaoninguem.&lt;/p></description></item><item><title>Projects</title><link>https://shiyuishere.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://shiyuishere.github.io/projects/</guid><description>&lt;p>Nothing to see here&amp;hellip; Move along!&lt;/p></description></item><item><title>Projetos</title><link>https://shiyuishere.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://shiyuishere.github.io/projects/</guid><description>&lt;p>Nada para ver aqui.. Circulando!&lt;/p></description></item></channel></rss>
